@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- Computer Engineering Student
+- Passionate about Data Science and AI
+- Student of Metropolitan Autonomous University
+
 <!--
 **kevin-dulche/kevin-dulche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
