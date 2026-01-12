@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kevin-dulche&margin-w=15&title=-Issues,-Stars,-Reviews" alt="trophy" />
+    <img src="https://github-profile-trophy-ig6svz98a-kevin-dulches-projects.vercel.app/?username=kevin-dulche&margin-w=15&title=-Issues,-Stars,-Reviews" alt="trophy" />
   </a>
 </div>
 
