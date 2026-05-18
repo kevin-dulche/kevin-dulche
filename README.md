@@ -1,77 +1,100 @@
-<h2 align="left">Hi 👋! My name is Kevin Dulche and I'm a student programming, from Mexico City</h2>
+<h1 align="center">Hola 👋, soy Kevin Dulche</h1>
+<h3 align="center">Estudiante de Ingeniería en Computación e Investigador</h3>
 
-###
+<p align="center">
+  Apasionado por la Inteligencia Artificial enfocado en el aprendizaje profundo. Gran parte de mi trabajo se centra en el modelado de redes complejas (GNNs), el procesamiento masivo de datos y la implementación de soluciones de hardware/IoT y arquitecturas en la nube.
+</p>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-ig6svz98a-kevin-dulches-projects.vercel.app/?username=kevin-dulche&margin-w=15&title=-Issues,-Stars,-Reviews" alt="trophy" />
-  </a>
-</div>
-
-###
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevin-dulche&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=light&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevin-dulche&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=light&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=kevin-dulche&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  
+  <img src="https://raw.githubusercontent.com/kevin-dulche/kevin-dulche/stats-output/stats.svg" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/kevin-dulche/kevin-dulche/languages-output/languages.svg" height="150" alt="languages graph" />
+  <img src="https://raw.githubusercontent.com/kevin-dulche/kevin-dulche/trophy-output/trophy.svg" height="150" alt="trophy graph" />
 </div>
 
-###
+---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/kevin-dulche/count.svg?"  />
+## 🛠️ Tecnologías y Herramientas
+
+### 💻 Lenguajes de Programación
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" title="Python"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo" title="C"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="35" alt="cpp logo" title="C++"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="35" alt="bash logo" title="Bash"/>
 </div>
 
-###
+<br>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"/>
+### 🧠 Inteligencia Artificial y Ciencia de Datos
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="35" alt="pytorch logo" title="PyTorch">
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="35" alt="tensorflow logo" title="TensorFlow">
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="35" alt="scikit-learn logo" title="Scikit-Learn"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="30" alt="matplotlib logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="35" alt="numpy logo" title="NumPy"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="35" alt="pandas logo" title="Pandas"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="30" alt="jupyter logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="35" alt="matplotlib logo" title="Matplotlib"/>
   <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberry logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="30" alt="django logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-plain.svg" height="30" alt="git logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="30" alt="bash logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30" alt="git logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="30" alt="github logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubcodespaces/githubcodespaces-original.svg" height="30" alt="codespaces logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="30" alt="docker logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="30" alt="windows logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="30" alt="linux logo"/>
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/seaborn-icon.svg" height="35" alt="seaborn logo" title="Seaborn"/>
 </div>
 
-###
+<br>
+
+### 🌐 Desarrollo Web y Backend
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="35" alt="fastapi logo" title="FastAPI"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" height="35" alt="flask logo" title="Flask"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="35" alt="django logo" title="Django"/>
+</div>
+
+<br>
+
+### 🗄️ Bases de Datos
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="35" alt="mysql logo" title="MySQL"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo" title="PostgreSQL"/>
+</div>
+
+<br>
+
+### ⚙️ Entornos, DevOps y Hardware
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" height="35" alt="docker logo" title="Docker"/>        
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="35" alt="linux logo" title="Linux"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="35" alt="windows logo" title="Windows"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" height="35" alt="raspberry logo" title="Raspberry Pi"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="35" alt="git logo" title="Git"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="35" alt="github logo" title="GitHub"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-plain.svg" height="35" alt="grpc logo" title="gRPC"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" height="35" alt="anaconda logo" title="Anaconda"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="35" alt="jupyter logo" title="Jupyter"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="35" alt="vscode logo" title="VS Code"/>
+</div>
+
+---
+
+## 📬 Contacto
 
 <div align="center">
   <a href="https://www.instagram.com/kevin_dulch3/">
@@ -80,15 +103,13 @@
   <a href="http://wa.me/525584589763">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
-  <a href="t.me/KevinDulche">
+  <a href="https://t.me/KevinDulche">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
 
-###
-
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/kevin-dulche/kevin-dulche/output/snake.svg" alt="Snake animation" />
-
-###
+<div align="center">
+  <img src="https://raw.githubusercontent.com/kevin-dulche/kevin-dulche/output/snake.svg" alt="Snake animation" />
+</div>
