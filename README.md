@@ -2,14 +2,14 @@
 <h3 align="center">Estudiante de Ingeniería en Computación e Investigador</h3>
 
 <p align="center">
-  Apasionado por la Inteligencia Artificial enfocado en el aprendizaje profundo. Gran parte de mi trabajo se centra en el modelado de redes complejas (GNNs), el procesamiento masivo de datos y la implementación de soluciones de hardware/IoT y arquitecturas en la nube.
+  Apasionado por la Inteligencia Artificial enfocado en el aprendizaje profundo. Gran parte de mi trabajo se centra en el modelado de redes complejas (GNNs), Autoencoders, Redes Nuronales Multicapa, el procesamiento masivo de datos y la implementación de soluciones de hardware/IoT y arquitecturas en la nube.
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kevin-dulche/kevin-dulche/stats-output/stats.svg" height="150" alt="stats graph" />
-  <img src="https://raw.githubusercontent.com/kevin-dulche/kevin-dulche/languages-output/languages.svg" height="150" alt="languages graph" />
+  <!-- <img src="https://raw.githubusercontent.com/kevin-dulche/kevin-dulche/stats-output/stats.svg" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/kevin-dulche/kevin-dulche/languages-output/languages.svg" height="150" alt="languages graph" /> -->
   <img src="https://raw.githubusercontent.com/kevin-dulche/kevin-dulche/trophy-output/trophy.svg" height="150" alt="trophy graph" />
 </div>
 
